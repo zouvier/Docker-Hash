@@ -1,2 +1,2 @@
 # Docker-Hash
-Saves the Docker container names and hash every 30 minutes into a text file
+Saves docker container names and hash into a text file. Set up with a chron job to make it into a interable action
